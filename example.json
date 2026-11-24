@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fictional-attack-1",
+    "category": "boundary",
+    "expected": "deny",
+    "observed": "allow"
+  },
+  {
+    "id": "fictional-normal-1",
+    "category": "ordinary",
+    "expected": "allow",
+    "observed": "allow"
+  }
+]
